@@ -3,71 +3,74 @@
 }
 
 
-.box{
-position: absolute;
-width: 350px;
-height: 515px;
-left: 436px;
-top: 100px;
-background: #FFFFFF;
-box-shadow: 0px 1px 10px rgba(0, 0, 0, 0.2);
-border-radius: 8px;
-
-}
-p{
-margin-left: 35px;
-margin-top:  37px;
-margin-right:  269px;
-margin-bottom: 8px;
-font-family: Lato;
-font-style: normal;
-font-weight: normal;
-font-size: 12px;
-line-height: 14px;
-letter-spacing: 2px;
-text-transform: uppercase;
-color: #B4B4B4;
-mix-blend-mode: normal;
-}
-
-h2{
-margin-top: 8px;   
-margin-left: 35px;
-margin-right: 100px;
-font-family: Lato;
-font-style: normal;
-font-weight: bold;
-font-size: 32px;
-line-height: 40px;
-color: #262626;
+.box {
+    position: absolute;
+    width: 350px;
+    height: 515px;
+    left: 436px;
+    top: 100px;
+    background: #FFFFFF;
+    box-shadow: 0px 1px 10px rgba(0, 0, 0, 0.2);
+    border-radius: 8px;
 
 }
 
-img{
-  margin-left: 35px;
-  width: 280px;
-  height: 270px;
+p {
+    margin-left: 35px;
+    margin-top: 37px;
+    margin-right: 269px;
+    margin-bottom: 8px;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 14px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #B4B4B4;
+    mix-blend-mode: normal;
 }
-ul{
-margin-top: 26px;
-margin-bottom: 26px;
-padding-left: 25px;
+
+h2 {
+    margin-top: 8px;
+    margin-left: 35px;
+    margin-right: 100px;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 32px;
+    line-height: 40px;
+    color: #262626;
+
 }
-ul>li{
 
-display: inline-block;
-width: 80px;
-height: 20px;
-margin: 0px 10px;
-background: #EC6732;
-border-radius: 17px;
-font-family: Roboto;
-font-style: normal;
-font-weight: 500;
-font-size: 10px;
-line-height: 20px;
-text-align: center;
-text-transform: uppercase;
+.img {
+    margin-left: 35px;
+    width: 280px;
+    height: 270px;
+}
 
-color: #FFFFFF;
+ul {
+    margin-top: 26px;
+    margin-bottom: 26px;
+    padding-left: 25px;
+}
+
+ul>li {
+
+    display: inline-block;
+    width: 80px;
+    height: 20px;
+    margin: 0px 10px;
+    background: #EC6732;
+    border-radius: 17px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 10px;
+    line-height: 20px;
+    text-align: center;
+    text-transform: uppercase;
+
+    color: #FFFFFF;
 }
